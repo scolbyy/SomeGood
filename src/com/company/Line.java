@@ -15,9 +15,10 @@ public class Line {
         end1 = new Point();
         end2 = new Point();
     }
-    /*
+
     public double distance()
     {
+        double a =  
         //You may find Math.pow(base, power) and Math.sqrt(num) useful
     }
     public Point midpoint()
@@ -29,7 +30,7 @@ public class Line {
     {
 
     }
-    */
+
     public double slope()
     {
         double m;

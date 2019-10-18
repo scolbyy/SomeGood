@@ -72,13 +72,6 @@ public class Fraction {
 		Fraction f8 = f6.add(f7);
         System.out.println(f6 + " + " + f7 + " = " + f8);
 
-
-
-
-
-
-
-
     }
 
 }
